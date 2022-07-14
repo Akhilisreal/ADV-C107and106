@@ -1,0 +1,52 @@
+body {
+    background-color: lightgrey;
+}
+
+#title {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px lightslategray;
+    font-weight: bolder;
+}
+
+#label {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px lightslategray;
+    font-weight: bolder;
+}
+
+#button {
+    width: 10%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#result_label,
+#result_confidence {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px lightslategray;
+}
+
+.copyright_footer {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 25px;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-shadow: 5px 5px 5px lightslategray;
+    font-weight: bolder;
+}
+
+.header_div {
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
